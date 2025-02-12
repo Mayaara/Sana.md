@@ -14,20 +14,20 @@ I am Experienced Network and Server Administrator with a proven track record in 
 - **Managing DLP Solution:** DLP Implementation & Management, Incident Management & Response, Network Security & Monitoring 
 - **M365 Administrator:** M365 Service Management, User & License Management, Security & Compliance, Security and Compliance
 - **Antivirus Tools:** Sophos Endpoint Security, Macafee(trilix), symentec
-- **Backup Tools:** Veritas backup tool, Veem Backuo, GFI Backup tool
+- **Backup Tools:** Veritas backup tool, Veem Backup, GFI Backup tool
 - **Operating Systems:** Windows (7-11), Linux, Windows Server 2016/2019/2022
 
 ## 🎓 Communities & Contributions
 
-- **College Research Journal Contributor:** Published articles on Agile Methodologies and AI in software solutions.
 - **Hackathons:** Actively participated in and contributed to diverse hackathons.
-- **Key Collaborations:** Worked with cross-functional teams to optimize workflows and deliver API-driven data solutions.
+- **Key Collaborations:** Worked with cross-functional teams to effectively communicate the importance of digital security to college students.
+- **Penetration Testing Webinar:** Participated in a two-day workshop on Penetration Testing through a webinar
 
 ## 🏆 Certifications
 
-- Generative Artificial Intelligence Course (2023)
-- Angular: Cloud-Powered Applications with Firebase
-- AWS Certified Solutions Architect (Associate) - *Pursuing*
+- Cyber Threat MAnagement Course (2024)
+- Endpoint Security(2024)
+- Ethical Hacker - *Pursuing*
 
 ## 🌟 Professional Experience
 
