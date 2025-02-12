@@ -12,8 +12,8 @@ I am Experienced Network and Server Administrator with a proven track record in 
 ## 👨‍💻 Professional Skills
 
 - **Technical Proficiency:** Networking, Server Management, Virtualization, Cloud Services(Azure)
-- **Security:** .NET Core, Next.js, Angular
-- **Mobile Technologies:** .NET MAUI, Xamarin.Forms, Flutter
+- **Security:** Firewall configuration and Management, Intrusion Detection, Data Protection
+- **Managing DLP Solution:** DLP Installation, Xamarin.Forms, Flutter
 - **Databases:** SQL Server, PostgreSQL, MongoDB, SQLite
 - **DevOps Tools:** JIRA Software, Figma, VS Code, Visual Studio
 - **Operating Systems:** Windows (7-11), Linux
