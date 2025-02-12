@@ -36,13 +36,15 @@ I am Experienced Network and Server Administrator with a proven track record in 
 - M365 administrator manages user accounts, licenses, and security settings to ensure efficient and secure use of Microsoft 365 services.
 - Managing a firewall involves configuring & monitoring network security to control incoming & outgoing traffic based on predetermined security rules.
 
-### **Software Engineer @ iWork Technologies** *(01/2021 - 09/2022)*
-- Developed mobile applications using Xamarin, Flutter, and .NET MAUI.
-- Designed and implemented RESTful API endpoints for scalable mobile solutions.
+### **Network Administrator @ Quadron iSolution Pvt Ltd** *(12/2019 - 04/2022)*
+-  Managing CISCO Switched and maintaining network security.
+-  Performing PCI-DSS compliance certification.
+-  Configuration of windows server 2008/2016.
 
-### **Software Engineer @ 7TECH IT SERVICES** *(02/2020 - 11/2020)*
-- Enhanced application security with advanced authentication protocols.
-- Conducted comprehensive performance testing for scalability and reliability.
+### **Desktop Support Engineer @ Research N Report** *(12/2017 - 08/2019)*
+- Installation and configuration windows, Linux operating system
+- Resolving software and hardware related issues.
+- Printer/CCTV /Attendance machine software installation and configuration.
 
 ## ⭐️ Key Projects
 
