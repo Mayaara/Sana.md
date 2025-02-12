@@ -5,7 +5,7 @@
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
 
-[![LinkedIn](https://www.linkedin.com/in/sanaa-momin-30137817a/)](https://www.linkedin.com/in/satishsh973/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satishTheLegend) [![Portfolio](https://img.shields.io/badge/Portfolio-32CD32?style=for-the-badge&logo=internet&logoColor=white)](https://satishthelegend.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanaa-momin-30137817a/) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/satishTheLegend) [![Portfolio](https://img.shields.io/badge/Portfolio-32CD32?style=for-the-badge&logo=internet&logoColor=white)](https://satishthelegend.github.io/portfolio/)
 
 I am Experienced Network and Server Administrator with a proven track record in enhancing company-wide security and maintaining robust network infrastructure. Adept at resolving software and hardware issues, implementing security policies, and managing O365 and Azure environments.
 
