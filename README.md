@@ -1,6 +1,4 @@
 
-
-
 <h2> Hello there, I'm Sana Momin <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
 <img align="right" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width='150'/> 
@@ -13,10 +11,11 @@ I am Experienced Network and Server Administrator with a proven track record in 
 
 - **Technical Proficiency:** Networking, Server Management, Virtualization, Cloud Services(Azure)
 - **Security:** Firewall configuration and Management, Intrusion Detection, Data Protection
-- **Managing DLP Solution:** DLP Installation, Xamarin.Forms, Flutter
-- **Databases:** SQL Server, PostgreSQL, MongoDB, SQLite
-- **DevOps Tools:** JIRA Software, Figma, VS Code, Visual Studio
-- **Operating Systems:** Windows (7-11), Linux
+- **Managing DLP Solution:** DLP Implementation & Management, Incident Management & Response, Network Security & Monitoring 
+- **M365 Administrator:** M365 Service Management, User & License Management, Security & Compliance, Security and Compliance
+- **Antivirus Tools:** Sophos Endpoint Security, Macafee(trilix), symentec
+- **Backup Tools:** Veritas backup tool, Veem Backuo, GFI Backup tool
+- **Operating Systems:** Windows (7-11), Linux, Windows Server 2016/2019/2022
 
 ## 🎓 Communities & Contributions
 
