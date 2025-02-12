@@ -11,8 +11,8 @@ I am Experienced Network and Server Administrator with a proven track record in 
 
 ## 👨‍💻 Professional Skills
 
-- **Programming Languages:** C#, Angular, JavaScript, TypeScript, Dart
-- **Frameworks:** .NET Core, Next.js, Angular
+- **Technical Proficiency:** Networking, Server Management, Virtualization, Cloud Services(Azure)
+- **Security:** .NET Core, Next.js, Angular
 - **Mobile Technologies:** .NET MAUI, Xamarin.Forms, Flutter
 - **Databases:** SQL Server, PostgreSQL, MongoDB, SQLite
 - **DevOps Tools:** JIRA Software, Figma, VS Code, Visual Studio
