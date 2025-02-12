@@ -26,15 +26,15 @@ I am Experienced Network and Server Administrator with a proven track record in 
 ## 🏆 Certifications
 
 - Cyber Threat MAnagement Course (2024)
-- Endpoint Security(2024)
+- Endpoint Security (2024)
 - Ethical Hacker - *Pursuing*
 
 ## 🌟 Professional Experience
 
-### **Senior Software Engineer @ Orion Innovation** *(09/2022 - Present)*
-- Automated KPMG's auditing system with robust authentication and dynamic UI rendering.
-- Ensured seamless daily deployments through streamlined CI/CD pipelines.
-- Collaborated with quality assurance teams to meet stringent testing criteria.
+### **Server Administrator @ ESOP Direct-Qapita Company** *(04/2022 - Present)*
+- Managing of a Windows Server and performing daily backup checks.
+- M365 administrator manages user accounts, licenses, and security settings to ensure efficient and secure use of Microsoft 365 services.
+- Managing a firewall involves configuring & monitoring network security to control incoming & outgoing traffic based on predetermined security rules.
 
 ### **Software Engineer @ iWork Technologies** *(01/2021 - 09/2022)*
 - Developed mobile applications using Xamarin, Flutter, and .NET MAUI.
